@@ -18,10 +18,10 @@
 [GitHub 프로젝트에 기여하기](https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0)
 
 ## 폴더 구조
-#### `알고리즘출처/문제명/풀이한 사람 이름`
-예시: `Baekjoon/2557.HelloWorld/김승아.py`
+#### `알고리즘출처/카테고리명/문제명/풀이한 사람 이름`
+예시: `Baekjoon//2557.HelloWorld/김승아.py`
 
 ## PR(Pull Request) 규칙
-#### `[알고리즘출처] 문제명 사용언어라벨`
+#### `[알고리즘출처] 카테고리명 문제명 사용언어라벨`
 #### PR 본문
 해당 문제를 풀면서 든 생각, 간단한 로직 설명을 써주세요.
