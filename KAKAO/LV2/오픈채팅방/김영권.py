@@ -16,7 +16,6 @@ def solution(record):
   answer = create_answer(stack, relation)
   return answer
   
-# uuid가 기존에 존재하는지 확인
 def enter(uuid, name, stack, relation):
   relation[uuid] = name
   stack.append(('Enter', uuid))
@@ -24,7 +23,6 @@ def enter(uuid, name, stack, relation):
 def leave(uuid, stack):
   stack.append(('Leave', uuid))
 
-# 기존에 존재하는 uuid 값 변경
 def change(uuid, new_name, relation):
   relation[uuid] = new_name
   
