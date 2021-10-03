@@ -16,6 +16,7 @@ def solution(record):
   answer = create_answer(stack, relation)
   return answer
   
+  
 def enter(uuid, name, stack, relation):
   relation[uuid] = name
   stack.append(('Enter', uuid))
