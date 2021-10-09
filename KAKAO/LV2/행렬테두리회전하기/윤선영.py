@@ -1,6 +1,7 @@
 def solution(rows, columns, queries):
     
     answer = []
+  
     matrix = [[row*columns + col for col in range(1,columns+1)] for row in range(rows)]
        
     for a,b,c,d in queries :
