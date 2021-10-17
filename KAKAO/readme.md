@@ -15,3 +15,14 @@
 |`02`|2|메뉴 리뉴얼|https://programmers.co.kr/learn/courses/30/lessons/72411|`LV2 / 메뉴리뉴얼`|
 
 <br>
+
+## Week 03.
+학기병행하는 스터디원들을 위한 휴식주 
+
+<br>
+
+## Week 04.
+|주차|Level|문제 이름|링크|디렉토리|
+|---|---|---|---|---|
+|`04`|2|괄호 변환|https://programmers.co.kr/learn/courses/30/lessons/60058|`LV2 / 괄호변환`|
+
