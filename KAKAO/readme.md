@@ -26,3 +26,12 @@
 |---|---|---|---|---|
 |`04`|2|괄호 변환|https://programmers.co.kr/learn/courses/30/lessons/60058|`LV2 / 괄호변환`|
 
+<br>
+
+## Week 05.
+|주차|Level|문제 이름|링크|디렉토리|
+|---|---|---|---|---|
+|`05`|2|거리두기 확인하기|https://programmers.co.kr/learn/courses/30/lessons/81302|`LV2 / 거리두기확인하기`|
+|`05`|2|수식 최대화|https://programmers.co.kr/learn/courses/30/lessons/67257|`LV2 / 수식최대화`|
+|`05`|2|튜플|https://programmers.co.kr/learn/courses/30/lessons/64065|`LV2 / 튜플`|
+
