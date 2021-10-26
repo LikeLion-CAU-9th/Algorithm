@@ -35,5 +35,3 @@ def solution(expression):
         answer = max(answer, abs(temp_items[0]))
 
     return answer
-
-print(solution("100-200*300-500+20"))
