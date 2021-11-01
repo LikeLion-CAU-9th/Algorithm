@@ -13,7 +13,6 @@ def is_right(p):
     for i in p :
         if i == '(' :
             arr.append(i)
-            
         else :
             try :
                 arr.pop()
@@ -22,7 +21,6 @@ def is_right(p):
     
     if len(arr) == 0 :
         return True
-    
     else :
         return False
                 
@@ -30,14 +28,12 @@ def is_right(p):
 def solution(p):
     
     if p == "":
-        return p
-    
+        return 
     u, v = p[:is_balanced(p)+1], p[is_balanced(p)+1:]
     
     if is_right(u):
         answer = u + solution(v)
         return answer
-    
     else :
         answer = '(' + solution(v) + ')'
         tr = str.maketrans('()',')(')
