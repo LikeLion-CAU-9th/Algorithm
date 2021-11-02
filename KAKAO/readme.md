@@ -35,3 +35,10 @@
 |`05`|2|수식 최대화|https://programmers.co.kr/learn/courses/30/lessons/67257|`LV2 / 수식최대화`|
 |`05`|2|튜플|https://programmers.co.kr/learn/courses/30/lessons/64065|`LV2 / 튜플`|
 
+<br>
+
+## Week 06.
+|주차|Level|문제 이름|링크|디렉토리|
+|---|---|---|---|---|
+|`06`|2|순위 검색|https://programmers.co.kr/learn/courses/30/lessons/72412|`LV2 / 순위검색`|
+|`06`|2|후보키|https://programmers.co.kr/learn/courses/30/lessons/42890|`LV2 / 후보키`|
