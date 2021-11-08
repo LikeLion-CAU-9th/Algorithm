@@ -42,3 +42,12 @@
 |---|---|---|---|---|
 |`06`|2|순위 검색|https://programmers.co.kr/learn/courses/30/lessons/72412|`LV2 / 순위검색`|
 |`06`|2|후보키|https://programmers.co.kr/learn/courses/30/lessons/42890|`LV2 / 후보키`|
+
+<br>
+
+## Week 07.
+|주차|Level|문제 이름|링크|디렉토리|
+|---|---|---|---|---|
+|`07`|2|프렌즈 4 블록|https://programmers.co.kr/learn/courses/30/lessons/17679|`LV2 / 프렌즈4블록`|
+|`07`|2|캐시|https://programmers.co.kr/learn/courses/30/lessons/17680|`LV2 / 캐시`|
+
